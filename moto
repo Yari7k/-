@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+0AIkKtx18U5lNTdi
 #profile-web-page-url: https://t.me/+0AIkKtx18U5lNTdi
-#announce: .                                vless://b8d6081d-6257-4b27-8e1b-84bc53957f54@lte1.belka.network:443?encryption=none&security=reality&pbk=3v-9P94hjSE1fw6we1J4RvyIYnFhySQUAe1DUKqkaBo&sid=7f2e9c4b1a8d6a53&sni=eh.vk.com&fp=chrome&type=tcp&flow=xtls-rprx-vision&headerType=none&allowinsecure=0proxy
+#announce: .                
 vless://15968928-07a3-4cfd-a987-1c181dfec6ef@31.129.42.156:6443?encryption=none&security=reality&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=5c766813929a1fdd&sni=5post-gate.x5.ru&fp=edge&type=grpc&flow=&serviceName=grpc&headerType=none&allowinsecure=0proxy
 vless://ce894bc8-fb97-48e1-b872-d79eca68db5f@188.72.103.3:443?mode=packet-up&path=%2Flivestreamcontent%2F&security=tls&encryption=none&extra=%7B%22scMaxBufferedPosts%22%3A30.0%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%7D&host=bbb.kdjdjssjwiqwr.online&allowinsecure=0&type=xhttp&sni=cdn.tracker.yandex.net#%F0%9F%87%AB%F0%9F%87%B2+%F0%9F%93%B6+LTE%2F4G+%7C+%D0%90%D0%B2%D1%82%D0%BE
 
