@@ -5,7 +5,7 @@
 
 vless://ea11100e-6d41-4811-9041-128d3404b7ad@31.129.42.210:6443?mode=gun&security=reality&encryption=none&authority=&pbk=Jx3-T6hnOqY0JL3XrKReYOZk7XAcHr-julwYzBcXzj0&fp=chrome&allowinsecure=0&type=grpc&serviceName=xyz&sni=ads.x5.ru#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8FWHITE
 
-vless://9ae0806c-6398-43da-a3c1-9275b461e9b5@yacdns4.yandexdns.ru:443?mode=packet-up&path=%2Fapi%2Fv1%2Fsync&security=tls&encryption=none&extra=%7B%22scMaxConcurrentPosts%22%3A1.0%2C%22scMaxEachPostBytes%22%3A524288.0%2C%22scMinPostsIntervalMs%22%3A150.0%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingKey%22%3A%22_dc%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%7D&host=yacdns4.yandexdns.ru&allowinsecure=0&type=xhttp&sni=yacdns4.yandexdns.ru#%F0%9F%87%AB%F0%9F%87%B2+%F0%9F%93%B6+LTE%2F4G+%7C+%D0%90%D0%B2%D1%82%D0%BE
+vless://ea11100e-6d41-4811-9041-128d3404b7ad@188.68.218.108:8443?mode=gun&security=reality&encryption=none&authority=&pbk=Jx3-T6hnOqY0JL3XrKReYOZk7XAcHr-julwYzBcXzj0&fp=chrome&allowinsecure=0&type=grpc&serviceName=xyz&sni=ads.x5.ru#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+WHITE+4
 
 vless://ce894bc8-fb97-48e1-b872-d79eca68db5f@188.72.103.3:443?mode=packet-up&path=%2Flivestreamcontent%2F&security=tls&encryption=none&extra=%7B%22scMaxBufferedPosts%22%3A30.0%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%7D&host=bbb.kdjdjssjwiqwr.online&allowinsecure=0&type=xhttp&sni=cdn.tracker.yandex.net#%F0%9F%87%A9%F0%9F%87%AA%20%D0%9E%D0%91%D0%A5%D0%9E%D0%94%20%D0%91%D0%A1%20
 
