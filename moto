@@ -11,7 +11,7 @@ vless://3c533416-8852-4f1a-befa-23289b2f32d1@212.193.152.65:443?path=%2Fv1%2Fdat
 
 
 vless://e7157d5d-c47f-46a4-b8d1-d1324e48264c@195.209.86.152:443?path=%2Fv1%2Fdata%2Fsync%2F&security=tls&encryption=none&alpn=http/1.1&fp=edge&allowinsecure=0&type=ws&sni=s75524.cdn.ngenix.net#%F0%9F%87%A8%F0%9F%87%BF+Czechia+%E2%80%94+%2323
-vless://e7157d5d-c47f-46a4-b8d1-d1324e48264c@195.209.86.152:443?path=%2Fv1%2Fdata%2Fsync%2F&security=tls&encryption=none&alpn=http/1.1&fp=edge&allowinsecure=0&type=ws&sni=s75524.cdn.ngenix.net#%F0%9F%87%A8%F0%9F%87%BF+Czechia+%E2%80%94+%2323
+vless://3c533416-8852-4f1a-befa-23289b2f32d1@212.193.153.170:443?path=%2Fv1%2Fdata%2Fsync%2F&security=tls&encryption=none&fp=chrome&allowinsecure=0&type=ws&sni=s86255.cdn.ngenix.net#%F0%9F%87%AB%F0%9F%87%AE+Finland+%E2%80%94+%23116
 
 vless://ea11100e-6d41-4811-9041-128d3404b7ad@31.129.42.210:6443?mode=gun&security=reality&encryption=none&authority=&pbk=Jx3-T6hnOqY0JL3XrKReYOZk7XAcHr-julwYzBcXzj0&fp=chrome&allowinsecure=0&type=grpc&serviceName=xyz&sni=ads.x5.ru#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8FWHITE
 
