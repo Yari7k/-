@@ -14,4 +14,4 @@ vless://0747503b-7a42-4b80-9140-96d752a2be48@nbb--55cc8221.vpn.partners:8443?flo
 
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?type=tcp&headerType=none&security=none&sni=127.0.0.1#%D0%91%D0%B5%D0%BB%D1%8B%D0%B5+%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%E2%AC%87%EF%B8%8F
 vless://547c0d9e-9bb5-4e83-b6e7-09953bc6004b@78.159.240.215:8443?encryption=none&security=tls&sni=2.26.148.147.tyr-agentstvo.tech&alpn=h2&fp=edge&type=ws&path=%2Fwebsocket%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%B4%20%F0%9F%8F%B3%20White%20lists%C2%B9
-vless://547c0d9e-9bb5-4e83-b6e7-09953bc6004b@46.254.18.27:443?encryption=none&security=tls&sni=cloudflare.vhub.pro&alpn=http%2F1.1&fp=ios&type=ws&path=%2Fwebsocket%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%B4%20%F0%9F%8F%B3%20White%20lists%C2%B2
+vless://547c0d9e-9bb5-4e83-b6e7-09953bc6004b@78.159.240.69:8443?encryption=none&security=tls&sni=2.26.148.147.tyr-agentstvo.tech&alpn=h2&fp=edge&type=ws&path=%2Fwebsocket%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%B4%20%F0%9F%8F%B3%20White%20lists%C2%B2
