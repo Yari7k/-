@@ -14,5 +14,5 @@ trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&fp=ios
 
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?type=tcp&headerType=none&security=none&sni=127.0.0.1#%D0%91%D0%B5%D0%BB%D1%8B%D0%B5+%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%E2%AC%87%EF%B8%8F
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:443?encryption=none&security=tls&sni=furrycdn.net&fp=firefox&type=ws&host=furrycdn.net&path=%2Fapi%2Fv1%2Fmake-love-not-war#%F0%9F%87%B8%F0%9F%87%B4%20%F0%9F%8F%B3%20White%20lists%C2%B9
-vless://547c0d9e-9bb5-4e83-b6e7-09953bc6004b@78.159.240.69:8443?encryption=none&security=tls&sni=2.26.148.147.tyr-agentstvo.tech&alpn=h2&fp=edge&type=ws&path=%2Fwebsocket%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%B4%20%F0%9F%8F%B3%20White%20lists%C2%B2
+hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?security=tls&fm=%7B%7D&sni=ru1.kinotorg.net#%F0%9F%87%B8%F0%9F%87%B4%20%F0%9F%8F%B3%20White%20lists%C2%B2
 
